@@ -32,3 +32,10 @@ Para que sua entrega seja aceita, você deve seguir o padrão de mercado:
 * **Formato:** Apenas arquivos **PDF**.
 * **Prazo:** 20/02/2026, às 17h.
 * **Nota:** A avaliação considerará tanto o conteúdo técnico quanto a correta execução do fluxo Git.
+
+### 📊 Composição da Nota (AV1)
+Este trabalho compõe a nota da primeira avaliação da seguinte forma:
+- **70%:** Avaliação Escrita (Teórica)
+- **30%:** Briefing Técnico via GitHub (Esta atividade)
+
+*Nota: A ausência de entrega via Pull Request impacta diretamente o critério de participação e domínio de ferramentas da disciplina.*
